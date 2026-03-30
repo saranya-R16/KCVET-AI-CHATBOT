@@ -149,27 +149,6 @@ This project helps students easily explore college-related information such as c
 - Dark overlay background for better readability  
 - Smooth animations for enhanced user experience  
 
----
-
-## 🖼️ Screenshots
-
-### Welcome Screen
-![Welcome Screen](Welcomescreen.png)
-
-### Course Details
-![Course Details](Coursedetails.png)
-
-### Admission Details
-![Admission Details](admissiondetails.png)
-
-### Chat History
-![Chat History](chathistory.png)
-
-### New Chat Feature
-![New Chat](newchat.png)
-
----
-
 ## 🌐 Background Image Source
 
 https://images.unsplash.com/photo-1562774053-701939374585  
@@ -205,7 +184,7 @@ https://images.unsplash.com/photo-1562774053-701939374585
 
 ## 👩‍💻 Author
 
-Saranya Sara  
+Saranya R  
 
 ---
 
