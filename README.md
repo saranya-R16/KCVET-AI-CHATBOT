@@ -42,27 +42,6 @@ It helps students explore college-related information like courses, fees, hostel
 - 🔎 Research  
 - 🏫 Virtual Tour  
 
----
-
-## 🖼️ Screenshots
-
-### 🔹 Welcome Screen
-![Welcome](IMAGES/newchart.png)
-
-### 🔹 Course Details
-![Courses](IMAGES/coursedetails.png)
-
-### 🔹 Admission Details
-![Admission](IMAGES/admissiondetails.png)
-
-### 🔹 Chat History
-![Chat](IMAGES/chathistory.png)
-
-### 🔹 Lab Details
-![Lab](IMAGES/labdetails.png)
-
----
-
 ## 🛠️ Technologies Used
 - HTML5  
 - CSS3  
