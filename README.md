@@ -1,3 +1,100 @@
+<<<<<<< HEAD
+# 🏫 KVCET AI College Assistant
+
+## 🌐 Live Demo
+👉 https://saranya-r16.github.io/KCVET-AI-CHATBOT/
+
+## 🔗 GitHub Repository
+👉 https://github.com/saranya-R16/KCVET-AI-CHATBOT
+
+---
+
+## 📌 Project Overview
+An interactive AI-powered College Assistant Chatbot built using HTML, CSS, and JavaScript.  
+It helps students explore college-related information like courses, fees, hostel, placements, and more.
+
+---
+
+## 🚀 Features
+- 💬 Interactive Chatbot UI  
+- 🎤 Voice Input (Speech Recognition)  
+- 🔊 Voice Output (Speech Synthesis)  
+- ⚡ Smooth animations  
+- 📚 Predefined responses  
+- 📜 Chat history  
+- 🔄 New chat reset  
+- 📱 Responsive design  
+
+---
+
+## 🎯 Modules Covered
+- 🎓 Courses & Programs  
+- 💰 Fees Structure  
+- 🏠 Hostel Facilities  
+- 🎉 Events  
+- 📝 Admission Process  
+- 📈 Placement Details  
+- 🏫 Infrastructure  
+- 🔬 Labs  
+- 📚 Library  
+- 🍽 Canteen  
+- 🔎 Research  
+- 🏫 Virtual Tour  
+
+---
+
+## 🖼️ Screenshots
+
+### 🔹 Welcome Screen
+![Welcome](IMAGES/newchart.png)
+
+### 🔹 Course Details
+![Courses](IMAGES/coursedetails.png)
+
+### 🔹 Admission Details
+![Admission](IMAGES/admissiondetails.png)
+
+### 🔹 Chat History
+![Chat](IMAGES/chathistory.png)
+
+### 🔹 Lab Details
+![Lab](IMAGES/labdetails.png)
+
+---
+
+## 🛠️ Technologies Used
+- HTML5  
+- CSS3  
+- JavaScript  
+- Web Speech API  
+
+---
+
+## ⚙️ How to Run
+1. Clone the repository  
+2. Open project folder  
+3. Run `index.html` in browser  
+
+---
+
+## 📌 Future Enhancements
+- 🤖 Real AI integration  
+- 🌍 Multi-language support  
+- 📊 Database integration  
+- 🎯 Personalized dashboard  
+
+---
+
+## 👩‍💻 Author
+Saranya R
+
+---
+
+## ⭐ Project Purpose
+- 🎓 Academic submission  
+- 💼 Portfolio project  
+- 🧠 Learning chatbot development  
+=======
 # 🏫 KVCET AI College Assistant
 
 ## 🌐 Live Demo
@@ -117,3 +214,4 @@ Saranya Sara
 - Portfolio showcase  
 - Learning chatbot development
 
+>>>>>>> 59f617a8fe3b758f2de1bada765e3c1a754011e2
